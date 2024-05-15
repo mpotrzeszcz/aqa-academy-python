@@ -6,6 +6,8 @@
 
 1. .venv folder.
    See venv creation https://docs.python.org/3/library/venv.html
+2. Reports
+   In order to avoid conflicts to git push
 
 ## Dependency updates
 
